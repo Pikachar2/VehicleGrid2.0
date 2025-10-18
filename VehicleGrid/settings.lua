@@ -2,6 +2,7 @@ local grid_sizes = {
   "4x4",
   "6x4",
   "6x6",
+  "6x8",
   "8x4",
   "8x6",
   "8x8",
@@ -21,7 +22,7 @@ data:extend({
     name = "VehicleGrid-car",
     order = "aa",
     setting_type = "startup",
-    default_value = "8x6",
+    default_value = "6x8",
     allowed_values = grid_sizes,
   },
   {
@@ -29,7 +30,7 @@ data:extend({
     name = "VehicleGrid-tank",
     order = "ab",
     setting_type = "startup",
-    default_value = "10x8",
+    default_value = "6x8",
     allowed_values = grid_sizes,
   },
   {
@@ -37,7 +38,7 @@ data:extend({
     name = "VehicleGrid-spider",
     order = "ac",
     setting_type = "startup",
-    default_value = "10x10",
+    default_value = "10x6",
     allowed_values = grid_sizes,
   },
   {

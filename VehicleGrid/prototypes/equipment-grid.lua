@@ -10,15 +10,15 @@ data:extend(
   {
     type = "equipment-grid",
     name = "car-equipment-grid",
-    width = tonumber(car_gridw) or 8,
+    width = tonumber(car_gridw) or 6,
     height = tonumber(car_gridh) or 8,
     equipment_categories = {"armor"}
   },
   {
     type = "equipment-grid",
     name = "tank-equipment-grid",
-    width = tonumber(tank_gridw) or 12,
-    height = tonumber(tank_gridh) or 10,
+    width = tonumber(tank_gridw) or 6,
+    height = tonumber(tank_gridh) or 8,
     equipment_categories = {"armor"}
   },
   {
