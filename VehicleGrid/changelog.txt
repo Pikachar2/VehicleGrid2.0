@@ -2,4 +2,5 @@
 Version: 0.0.1
 Date: 2025-10-17
   Features:
-    - initial release
+    - initial 2.0 release - Updated copy of original mod by Optera
+    - changed default grid sizes of tank and spidertron to vanilla and changed the car default to match the tank.
