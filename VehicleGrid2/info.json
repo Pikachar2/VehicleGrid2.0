@@ -1,10 +1,10 @@
 {
-  "name": "VehicleGrid",
+  "name": "VehicleGrid2",
   "version": "0.0.1",
   "title": "Vehicle Grid 2.0",
   "author": "Pikachar",
   "description": "Adds a configurable equipment grid to any base or modded vehicle without grid.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.0.69",
     "? bobvehicleequipment >= 0.18.0",
